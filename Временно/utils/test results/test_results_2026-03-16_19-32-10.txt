@@ -1,0 +1,2510 @@
+﻿
+Config: general (ALT).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=191.7 KB status=FAIL
+    TLS1.2: code=206 size=47.7 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=111.7 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=63.5 KB status=FAIL
+    TLS1.2: code=206 size=47.5 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=172.6 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=148.2 KB status=FAIL
+    TLS1.2: code=206 size=210.7 KB status=FAIL
+    TLS1.3: code=206 size=202.9 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=14.8 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (ALT2).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=14.5 KB status=LIKELY_BLOCKED
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+
+Config: general (ALT3).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=15.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=17.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=93.6 KB status=FAIL
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=117 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=92.9 KB status=FAIL
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=69.5 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (ALT4).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=111.5 KB status=FAIL
+    TLS1.3: code=206 size=223.5 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=54.5 KB status=FAIL
+    TLS1.3: code=206 size=132.6 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=30.6 KB status=FAIL
+
+Config: general (ALT5).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=20.1 KB status=LIKELY_BLOCKED
+    TLS1.2: code=200 size=20 KB status=LIKELY_BLOCKED
+    TLS1.3: code=200 size=20 KB status=LIKELY_BLOCKED
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=20.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=20.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=20 KB status=LIKELY_BLOCKED
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=19.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=21 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=21.4 KB status=LIKELY_BLOCKED
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=7.6 KB status=FAIL
+    TLS1.3: code=206 size=7.6 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.7 KB status=LIKELY_BLOCKED
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.7 KB status=LIKELY_BLOCKED
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=15.5 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.5 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.5 KB status=LIKELY_BLOCKED
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=190.7 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=14.5 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.5 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=14.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=14.4 KB status=LIKELY_BLOCKED
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=14.3 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.3 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=14.3 KB status=LIKELY_BLOCKED
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.7 KB status=LIKELY_BLOCKED
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=19.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=3.6 KB status=FAIL
+    TLS1.3: code=206 size=19.6 KB status=LIKELY_BLOCKED
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=206 size=7.6 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=14.8 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.8 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=14.8 KB status=LIKELY_BLOCKED
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=14.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=2.6 KB status=FAIL
+    TLS1.3: code=206 size=6.6 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=14.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+
+Config: general (ALT6).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=7.6 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (ALT7).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=20 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=22.7 KB status=FAIL
+    TLS1.3: code=206 size=17.4 KB status=LIKELY_BLOCKED
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=239.5 KB status=FAIL
+    TLS1.2: code=206 size=79.5 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=14.5 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.5 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=14.5 KB status=LIKELY_BLOCKED
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=23.2 KB status=FAIL
+    TLS1.3: code=206 size=23.2 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.7 KB status=LIKELY_BLOCKED
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.7 KB status=LIKELY_BLOCKED
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=23.2 KB status=FAIL
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=14.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=14.6 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=14.6 KB status=LIKELY_BLOCKED
+
+Config: general (ALT8).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+
+Config: general (ALT9).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=15.6 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=22.7 KB status=FAIL
+    TLS1.3: code=206 size=23.7 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.3: code=206 size=15.4 KB status=LIKELY_BLOCKED
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=23.2 KB status=FAIL
+    TLS1.2: code=206 size=23.2 KB status=FAIL
+    TLS1.3: code=206 size=23.2 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=187.3 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=202.3 KB status=FAIL
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (ALT10).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (ALT11).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=159.5 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=93.6 KB status=FAIL
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=155.4 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (FAKE TLS AUTO ALT).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+
+Config: general (FAKE TLS AUTO ALT2).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+
+Config: general (FAKE TLS AUTO ALT3).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=7.6 KB status=FAIL
+    TLS1.2: code=206 size=7.6 KB status=FAIL
+    TLS1.3: code=206 size=7.6 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=109.2 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (FAKE TLS AUTO).bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+
+Config: general (SIMPLE FAKE ALT).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (SIMPLE FAKE ALT2).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=95.5 KB status=FAIL
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=239.5 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=62.3 KB status=FAIL
+    TLS1.2: code=206 size=187.3 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general (SIMPLE FAKE).bat (Type: dpi)
+  Target: SE.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=202 size=0 KB status=OK
+    TLS1.2: code=202 size=0 KB status=OK
+    TLS1.3: code=202 size=0 KB status=OK
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=206 size=64.1 KB status=OK
+    TLS1.2: code=206 size=64.1 KB status=OK
+    TLS1.3: code=206 size=64.1 KB status=OK
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=200 size=217.8 KB status=OK
+    TLS1.2: code=200 size=217.8 KB status=OK
+    TLS1.3: code=200 size=217.8 KB status=OK
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=206 size=214.6 KB status=OK
+    TLS1.2: code=206 size=214.6 KB status=OK
+    TLS1.3: code=206 size=214.6 KB status=OK
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=206 size=149.4 KB status=OK
+    TLS1.2: code=206 size=149.4 KB status=OK
+    TLS1.3: code=206 size=149.4 KB status=OK
+  Target: US.CF-02 (Cloudflare)
+    HTTP: code=206 size=100.7 KB status=OK
+    TLS1.2: code=206 size=100.7 KB status=OK
+    TLS1.3: code=206 size=100.7 KB status=OK
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=206 size=97.7 KB status=OK
+    TLS1.2: code=206 size=97.7 KB status=OK
+    TLS1.3: code=206 size=97.7 KB status=OK
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=206 size=126.7 KB status=OK
+    TLS1.2: code=206 size=126.7 KB status=OK
+    TLS1.3: code=206 size=126.7 KB status=OK
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=111.5 KB status=FAIL
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.FST-01 (Fastly)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=206 size=121.6 KB status=OK
+    TLS1.2: code=206 size=121.6 KB status=OK
+    TLS1.3: code=206 size=121.6 KB status=OK
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=206 size=190.3 KB status=OK
+    TLS1.2: code=206 size=190.3 KB status=OK
+    TLS1.3: code=206 size=190.3 KB status=OK
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=206 size=71.6 KB status=OK
+    TLS1.2: code=206 size=71.6 KB status=OK
+    TLS1.3: code=206 size=71.6 KB status=OK
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=206 size=146.6 KB status=OK
+    TLS1.2: code=206 size=146.6 KB status=OK
+    TLS1.3: code=206 size=146.6 KB status=OK
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=206 size=109 KB status=OK
+    TLS1.2: code=206 size=109 KB status=OK
+    TLS1.3: code=206 size=109 KB status=OK
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=206 size=208.3 KB status=OK
+    TLS1.2: code=206 size=208.3 KB status=OK
+    TLS1.3: code=206 size=208.3 KB status=OK
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=206 size=256 KB status=OK
+    TLS1.2: code=206 size=256 KB status=OK
+    TLS1.3: code=206 size=256 KB status=OK
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=206 size=125.2 KB status=OK
+    TLS1.2: code=206 size=125.2 KB status=OK
+    TLS1.3: code=206 size=125.2 KB status=OK
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=206 size=168 KB status=OK
+    TLS1.2: code=206 size=168 KB status=OK
+    TLS1.3: code=206 size=168 KB status=OK
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=206 size=76.1 KB status=OK
+    TLS1.2: code=206 size=76.1 KB status=OK
+    TLS1.3: code=206 size=76.1 KB status=OK
+
+Config: general.bat (Type: dpi)
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: US.AKM-01 (Akamai)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.AWS-01 (AWS)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CDN77-01 (CDN77)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.CF-02 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.CF-01 (Cloudflare)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: UNKNOWN (UNKNOWN)
+    RUNSPACE: code=ERR size=0 KB status=FAIL
+  Target: FR.CNTB-01 (Contabo)
+    HTTP: code=206 size=15.4 KB status=LIKELY_BLOCKED
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.CNTB-02 (Contabo)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-01 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-02 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.DO-03 (DigitalOcean)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CA.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.FST-01 (Fastly)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: LU.GCORE-01 (Gcore)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-01 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.GC-02 (Google Cloud)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-01 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-02 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-03 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FI.HE-04 (Hetzner)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.MBCOM-01 (Melbicom)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: CO.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=206 size=93.6 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: SG.OR-01 (Oracle)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-01 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: FR.OVH-02 (OVH)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: NL.SW-01 (Scaleway)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: DE.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+  Target: US.VLTR-01 (Vultr)
+    HTTP: code=000 size=0 KB status=FAIL
+    TLS1.2: code=000 size=0 KB status=FAIL
+    TLS1.3: code=000 size=0 KB status=FAIL
+
+=== ANALYTICS ===
+general (ALT11).bat : OK: 82, FAIL: 15, UNSUP: 0, BLOCKED: 0
+general (ALT3).bat : OK: 37, FAIL: 52, UNSUP: 0, BLOCKED: 8
+general (FAKE TLS AUTO).bat : OK: 18, FAIL: 79, UNSUP: 0, BLOCKED: 0
+general (ALT6).bat : OK: 6, FAIL: 89, UNSUP: 0, BLOCKED: 0
+general (ALT5).bat : OK: 14, FAIL: 29, UNSUP: 0, BLOCKED: 52
+general (SIMPLE FAKE ALT).bat : OK: 88, FAIL: 11, UNSUP: 0, BLOCKED: 0
+general (FAKE TLS AUTO ALT3).bat : OK: 59, FAIL: 38, UNSUP: 0, BLOCKED: 0
+general (ALT10).bat : OK: 88, FAIL: 11, UNSUP: 0, BLOCKED: 0
+general (FAKE TLS AUTO ALT).bat : OK: 0, FAIL: 89, UNSUP: 0, BLOCKED: 0
+general.bat : OK: 0, FAIL: 94, UNSUP: 0, BLOCKED: 1
+general (ALT7).bat : OK: 63, FAIL: 14, UNSUP: 0, BLOCKED: 22
+general (ALT4).bat : OK: 76, FAIL: 19, UNSUP: 0, BLOCKED: 0
+general (FAKE TLS AUTO ALT2).bat : OK: 0, FAIL: 89, UNSUP: 0, BLOCKED: 0
+general (ALT2).bat : OK: 0, FAIL: 92, UNSUP: 0, BLOCKED: 1
+general (ALT8).bat : OK: 0, FAIL: 95, UNSUP: 0, BLOCKED: 0
+general (ALT9).bat : OK: 59, FAIL: 32, UNSUP: 0, BLOCKED: 4
+general (ALT).bat : OK: 75, FAIL: 23, UNSUP: 0, BLOCKED: 1
+general (SIMPLE FAKE).bat : OK: 87, FAIL: 12, UNSUP: 0, BLOCKED: 0
+general (SIMPLE FAKE ALT2).bat : OK: 84, FAIL: 15, UNSUP: 0, BLOCKED: 0
+Best strategy: general (SIMPLE FAKE ALT).bat
